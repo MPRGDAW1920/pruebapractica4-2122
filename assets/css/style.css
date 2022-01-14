@@ -70,6 +70,8 @@ servicios.html en h4*/
 		max-width: 25%;
 		background: #67a030;
 		text-shadow: 50px 10px 40px 20x yellow;
+	
+		font-style: oblique;
 	}
 	nav ul{
 		border-style: groove;
@@ -77,7 +79,7 @@ servicios.html en h4*/
 		text-shadow: 50px 10px 40px 20x yellow;
 	}
 	nav li a{
-		text-decoration: none;
+		text-decoration: underline;
 		line-height: 5px;
 		color: #7de8ea;
 		background: #67a030;
