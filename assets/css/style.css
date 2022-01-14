@@ -13,6 +13,14 @@
   .tangarin {
     font-family: 'tangarin';
 }
+nav{
+	
+	font-style: oblique;
+}
+nav li a{
+	text-decoration: underline;
+}
+
 /*Punto 7.1 
 index imagen perro
 en todas imagen wasap*/
