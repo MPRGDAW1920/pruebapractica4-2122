@@ -1,0 +1,10 @@
+@media print{
+
+img{
+    width: 15%;
+    height: 15%;
+}
+header, footer, aside {
+    display: none;
+}
+}
